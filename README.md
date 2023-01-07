@@ -1,1 +1,1 @@
-DJANGO 배포 연습중
+## First time to deploy DJANGO APP
