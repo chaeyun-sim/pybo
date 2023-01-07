@@ -1,1 +1,1 @@
-## First time to deploy DJANGO APP
+## First deplayment of Django App
